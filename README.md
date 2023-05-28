@@ -8,14 +8,14 @@ This project is a Python Flask web application that allows users to retrieve and
 
 ## Features
 
-- Retrieve and filter academic publications details from Google Scholar
-- Automated data refinement with author affiliation tagging
+- Data Retrieval: Retrieve academic publications from Google Scholar.
+- Tagging: Set or edit tags for the publications to identify author affiliations.
+- Search and Filter: Search and filter publications based on various parameters.
 - Web scraping implementation using Beautiful Soup
 
 ## Technologies Used
 
-- Python
-- Flask
+- Python Flask
 - Beautiful Soup
 
 
