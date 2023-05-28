@@ -34,32 +34,26 @@ This project is a Python Flask web application that allows users to retrieve and
 
 ### Data Retrieval
 
-(<img width="567" alt="image" src="https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/86a2a254-f95d-4927-be17-2bed8eaa6ca1">
-)
+<img width="567" alt="image" src="https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/86a2a254-f95d-4927-be17-2bed8eaa6ca1">
+
 
 This screenshot shows the data retrieval feature, where users can retrieve academic publications from Google Scholar.
 
 ### Tagging
 
-(<img width="616" alt="image" src="https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/e96a213c-5209-4ba1-9afe-a3efccd43f78">
-)
+<img width="616" alt="image" src="https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/e96a213c-5209-4ba1-9afe-a3efccd43f78">
+
 
 This screenshot shows the tagging feature, where users can set or edit tags to identify author affiliations for the publications.
 
 ### Search and Filter
 
-(<img width="622" alt="image" src="https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/9d9af5e0-dae0-4db2-8078-9da6a54e5b25">
-)
+<img width="622" alt="image" src="https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/9d9af5e0-dae0-4db2-8078-9da6a54e5b25">
+
 
 This screenshot shows the search and filter functionality, allowing users to search and filter publications based on various parameters.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please submit a pull request.
-
-## License
-
-[MIT License](LICENSE)
 
 
 
