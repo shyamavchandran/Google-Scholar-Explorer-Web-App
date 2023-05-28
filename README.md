@@ -48,7 +48,8 @@ This screenshot shows the tagging feature, where users can set or edit tags to i
 
 ### Search and Filter
 
-<img width="622" alt="image" src="https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/9d9af5e0-dae0-4db2-8078-9da6a54e5b25">
+![Picture2](https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/1cf63ac7-2990-43fa-b10c-d64f106534af)
+
 
 
 This screenshot shows the search and filter functionality, allowing users to search and filter publications based on various parameters.
