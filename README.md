@@ -31,16 +31,14 @@ This project is a Python Flask web application that allows users to retrieve and
 
 ### Data Retrieval
 
-<img width="567" alt="image" src="https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/51d756c6-a499-4a9e-97bb-14d9a876fbca
-">
+<img width="567" alt="image" src="https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/51d756c6-a499-4a9e-97bb-14d9a876fbca">
 
 
 This screenshot shows the data retrieval feature, where users can retrieve academic publications from Google Scholar.
 
 ### Tagging
 
-<img width="616" alt="image" src="https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/29d8802c-546b-400e-94c4-1268ffe69f99
-">
+<img width="616" alt="image" src="https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/29d8802c-546b-400e-94c4-1268ffe69f99">
 
 
 This screenshot shows the tagging feature, where users can set or edit tags to identify author affiliations for the publications.
