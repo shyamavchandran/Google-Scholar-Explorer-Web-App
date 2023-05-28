@@ -48,7 +48,7 @@ This screenshot shows the tagging feature, where users can set or edit tags to i
 
 ### Search and Filter
 
-![Picture2](https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/1cf63ac7-2990-43fa-b10c-d64f106534af)
+<img width="616" alt="image"src="https://github.com/shyamavchandran/Google-Scholar-Explorer-Web-App/assets/107796267/1cf63ac7-2990-43fa-b10c-d64f106534af">
 
 
 
